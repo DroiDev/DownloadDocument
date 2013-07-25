@@ -1,7 +1,7 @@
-DownloadReadAndShare
+DownloaDocument
 ===================
 
 Ce projet expose :
-- Comment télécharger un document à partir de son URL
-- Utiliser AsynchTask et les notifications pour permettre à l'utilisateur de suivre l'évolution du téléchargement sans bloquer l'application
-- Afficher une image à partir de son URL
+- Comment tï¿½lï¿½charger un document ï¿½ partir de son URL
+- Utiliser AsynchTask et les notifications pour permettre ï¿½ l'utilisateur de suivre l'ï¿½volution du tï¿½lï¿½chargement sans bloquer l'application
+- Afficher une image ï¿½ partir de son URL
